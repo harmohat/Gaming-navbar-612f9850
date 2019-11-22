@@ -1,0 +1,6 @@
+.navbar  {
+  display: flex;
+  background-color: darkorange;
+  padding: 15px;
+  justify-content: space-around;
+}
